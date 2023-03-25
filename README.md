@@ -9,7 +9,7 @@ that probably wont be that good...
 todo:
 pick chess library, do we want it to do all the work? or do we want some leway
 
-- engine will take a board and give it a rating (like stockfish), probably -1,1
+- engine will take a board and output move given the best move from a databse
 
 engine.py
 - takes saved model and rates all possible next moves, then it choses the best next move
